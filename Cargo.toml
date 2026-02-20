@@ -1,0 +1,10 @@
+[package]
+name = "r3ap3rdemocrate"
+version = "0.1.0"
+edition = "2024"
+readme = "README.md"
+license = "Apache-2.0"
+authors = ["Szabó Dániel Ernő <r3ap3rpy@gmail.com>"]
+keywords = ["demo","youtube","guide"]
+
+[dependencies]
