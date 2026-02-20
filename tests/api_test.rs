@@ -1,4 +1,4 @@
-use r3ap3rdemocrate::api::api_sum;
+use r3ap3rpydemocrate::api::api_sum;
 
 #[test]
 fn test_api_sum() {
