@@ -6,5 +6,7 @@ readme = "README.md"
 license = "Apache-2.0"
 authors = ["Szabó Dániel Ernő <r3ap3rpy@gmail.com>"]
 keywords = ["demo","youtube","guide"]
-
+description = "This is just a demo crate and upload for crates.io"
+repository = "https://github.com/r3ap3rpy/r3ap3rdemocrate"
+documentation = "http://docs.rs/r3ap3rdemocrate/0.1.0/r3ap3rdemocrate"
 [dependencies]
